@@ -36,14 +36,3 @@ nithish-perumal-3b7a38256
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![VSCode](https://img.shields.io/badge/Vs_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white")
-
-
----
-
-## 📊 GitHub Status
-
-<img src="https://github-readme-stats.vercel.app/api?username=blank-09&show_icons=true&locale=en&count_private=true&hide_border=true" alt="blank-09" />
-
-<img src ="https://github-readme-streak-stats.herokuapp.com/?user=blank-09&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blank-09&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
