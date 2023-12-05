@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/nithish-perumal/">
     <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://github.com/Nithishuchiha">
+    <img alt="GitHub Views" title="GitHub Views" src="https://komarev.com/ghpvc/?username=Nithishuchiha&style=for-the-badge"/>
+  </a>
 </p>
 
 ![Rainbow Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
