@@ -1,10 +1,8 @@
 <h1 align="center">Hi I'm Nithish Kumar P😁</h1>
 
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20on%20progress%20to%20become%20a%20UI%20&%20UX%20DESIGNER;Prompt%20Engineer;Full%20Stack%20Web%20Developer;Like%20these%20💻&center=true&width=570&height=45" />
-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20on%20progress%20to%20become%20a%20UI%20&%20UX%20DESIGNER;Prompt%20Engineer;Full%20Stack%20Web%20Developer;Like%20these%20💻&center=true&width=570&height=45" />
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/nithish-perumal/">
     <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
