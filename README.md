@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Nithish Kumar P😁</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20on%20progress%20to%20become%20a%20UI%20&%20UX%20DESIGNER;Prompt%20Engineer;Full%20Stack%20Web%20Developer;💻&center=true&width=570&height=45" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Open-Source%20Enthusiast;I%20💙%20Community;Programming%20Rule:%20IF%20IT%20WORKS%20DON'T%20TOUCH%20IT%20😉;I%20am%20Developer%20from%20India;&center=true&width=570&height=45" />
 </p>
 
 <p align="center">
