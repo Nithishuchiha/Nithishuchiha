@@ -22,7 +22,7 @@
 
 - 🎓 I'm in B.Tech IT 2nd year.
 
-- 🌱 I’m currently learning **React;)**
+- 🌱 I’m currently in the progress to become **Full Stack Developer;)**
 
 - 📫 How to reach me [**nithishperumal13062003@gmail.com**](mailto:nithishperumal13062003@gmail.com)
 
