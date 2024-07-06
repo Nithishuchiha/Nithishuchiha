@@ -1,4 +1,8 @@
 # Hi👋, I'm Nithish Kumar P
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Open-Source%20Enthusiast;I%20💙%20Community;Progress%20to%20become%20a%20Full%20Stack%20Web%20Developer%20😉;I%20am%20Developer%20from%20India;&center=true&width=570&height=45" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on [College_Travel_Booking](https://github.com/Nithishuchiha/College_Travel_Booking.git)<br>🌱 I’m currently learning **DATA STRUCTURE AND ALGORITHM,JAVA FULL STACK**  <br>💬 Ask me about **react, tailwind, java**  <br>📫 How to reach me **nithishperumal13062003@gmail.com**  <br>⚡ fact **Self-realization is the Best Form of Learning** 
 
