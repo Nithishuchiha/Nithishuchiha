@@ -1,7 +1,8 @@
 <h1 align="center">  Hi👋, I'm Nithish Kumar P</h1>
 <p align = "center">
-   > 🌟 **Part of courage is simple consistency** 🌟  
-> — *Peggy Noonan*
+   > #🌟 Part of courage is simple consistency 🌟  
+   <br>
+                              — *Peggy Noonan*
 
 </p>
 
