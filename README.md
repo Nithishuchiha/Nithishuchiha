@@ -1,6 +1,8 @@
 <h1 align="center">  Hi👋, I'm Nithish Kumar P</h1>
 <p align="center">
-    Being Consistent is an My form of Success...
+   ** Part of courage is simple consistency **
+                     -Peggy Noonan
+
 </p>
 
 # 💫 About Me:
