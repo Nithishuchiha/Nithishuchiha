@@ -1,10 +1,10 @@
-<h1 align="center">  Hello EveryOne✌️,You're looking at Nithish Kumar's Github Profile😎</h1>
+<h1 align="center">  Hello EveryOne✌️,These is Nithish Kumar P😎</h1>
 <h3 align = "center">
    🌟 Part of courage is simple consistency 🌟  
 </h3>
 <p align="center">  — Peggy Noonan</p>
 
-# 💫 About Me:
+# 🤩 The Journey So far:
 🔭 I’m currently working on [College_Travel_Booking](https://github.com/Nithishuchiha/College_Travel_Booking.git)<br>🌱 I’m currently learning **DATA STRUCTURE AND ALGORITHM,JAVA FULL STACK**  <br>💬 Ask me about **react, tailwind, java**  <br>📫 How to reach me **nithishperumal13062003@gmail.com**  <br>⚡ fact **Self-realization is the Best Form of Learning** 
 
 
