@@ -1,6 +1,6 @@
 <h1 align="center">  Hi👋, I'm Nithish Kumar P</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Open-Source%20Enthusiast;I%20💙%20Community;Progress%20to%20become%20a%20Full%20Stack%20Web%20Developer%20😉;I%20am%20Developer%20from%20India;&center=true&width=570&height=45" />
+    Being Consistent is an My form of Success...
 </p>
 
 # 💫 About Me:
