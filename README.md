@@ -1,6 +1,9 @@
 <h1 align="center">  Hi👋, I'm Nithish Kumar P</h1>
-> Part of courage is simple consistency  
-> -- Peggy Noonan
+<p align = "center">
+   > 🌟 **Part of courage is simple consistency** 🌟  
+> — *Peggy Noonan*
+
+</p>
 
 
 # 💫 About Me:
